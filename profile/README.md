@@ -38,7 +38,7 @@ The layout stays small on purpose: one desk, one list, one path back. Extra tile
 
 ## What It Looks Like
 
-![QuPath](https://andrewjanowczyk.com/wp-content/uploads/2022/05/QuPath_annotations_with_default_name_web.png)
+![QuPath](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfxdkHQJZ96dxTkIlUJ2rHW2Y-rM_AJWfCl2f4e0vQqYDgAJvpDfb3z4&s=10)
 
 ---
 
